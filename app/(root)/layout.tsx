@@ -1,6 +1,7 @@
 import Image from "next/image";
-import Sidebar from "./components/Sidebar";
-import MobileNav from "./components/MobileNav";
+import Sidebar from "../components/Sidebar";
+import MobileNav from "../components/MobileNav";
+
 
 export default function RootLayout({
   children,
